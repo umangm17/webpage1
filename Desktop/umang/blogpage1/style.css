@@ -1,0 +1,24 @@
+#navcss{
+    display: flex;;
+    justify-content: flex-end;
+}
+.id1{
+    position: sticky;
+    top: 0%;
+}
+
+ 
+.herosection {
+    background-image: url("./pic/back1.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+   
+}
+.back2{
+    background-image: url("./pic/back2.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+
+}
